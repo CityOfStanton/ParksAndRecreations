@@ -2,7 +2,11 @@
   <img src="../../../../Assets/Softball Logo_Full Color Logo - 1-1.png" alt="Softball Logo" width="300"/>
 </p>
 
+<center>
+
 [![Park Website](https://img.shields.io/badge/park_website-77a459?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-softball/)  [![Softball Website](https://img.shields.io/badge/softball_website-7700ff?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-softball/)  [![Online Scheduling](https://img.shields.io/badge/online_scheduling-3e83c7?style=for-the-badge&logo=About.me&logoColor=white)](http://www.quickscores.com/StantonCityPark/)    [![Softball Facebook](https://img.shields.io/badge/Softball_Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.patreon.com/ThePerfectStrangers)
+
+</center>
 
 # Rules
 
