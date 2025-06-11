@@ -8,6 +8,18 @@
 
 </center>
 
+- [Rules](#rules)
+  - [General Park Rules](#general-park-rules)
+  - [League Rules](#league-rules)
+  - [T-Ball \& Instructional League Rules](#t-ball--instructional-league-rules)
+  - [Coach Pitch and Kid Pitch Rules](#coach-pitch-and-kid-pitch-rules)
+- [Division Concepts](#division-concepts)
+  - [Instructional League](#instructional-league)
+  - [T-Ball](#t-ball)
+  - [Coach Pitch](#coach-pitch)
+  - [Kid Pitch](#kid-pitch)
+
+
 # Rules
 
 ## General Park Rules
