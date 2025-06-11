@@ -13,7 +13,7 @@
   - [League Rules](#league-rules)
   - [T-Ball \& Instructional League Rules](#t-ball--instructional-league-rules)
   - [Coach Pitch and Kid Pitch Rules](#coach-pitch-and-kid-pitch-rules)
-- [Division Concepts](#division-concepts)
+- [League Concepts](#league-concepts)
   - [Instructional League](#instructional-league)
   - [T-Ball](#t-ball)
   - [Coach Pitch](#coach-pitch)
@@ -52,7 +52,7 @@ All participants will adhere to the [Stanton City Park Rules](../../../../../Doc
 2. The scorekeepers’ book is the ultimate source of truth for scoring issues.
 3. Face mask for helmets and regular fielding face mask are required. Players may not go on to the field without them.
 
-# Division Concepts
+# League Concepts
 
 ## Instructional League
 
