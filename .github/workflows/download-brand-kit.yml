@@ -25,7 +25,7 @@ jobs:
           ls
           ZIP_FILE_PATH="Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip"
           rm -f $ZIP_FILE_PATH
-          cd Assets/BrandKit/ZipFile/
+          cd BrandKit
           zip -r $ZIP_FILE_PATH .
 
       - name: Configure git
