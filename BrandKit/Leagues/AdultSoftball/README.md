@@ -22,8 +22,6 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | Adult Softball | 1     | 1      | Color         | Red              | Logo                       | [Adult_Softball-1_1-Color-Red-Logo.png](Rasterized/Adult_Softball-1_1-Color-Red-Logo.png)                                                   |
 | Adult Softball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Adult_Softball-1_1-Color-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-Color-Transparent-Logo.png)                                   |
 | Adult Softball | 16    | 9      | Color         | Black            | Logo                       | [Adult_Softball-16_9-Color-Black-Logo.png](Rasterized/Adult_Softball-16_9-Color-Black-Logo.png)                                             |
-| Adult Softball | 16    | 9      | Color         | Black            | Registration Starting Soon | [Adult_Softball-16_9-Color-Black-Registration_Starting_Soon.png](Rasterized/Adult_Softball-16_9-Color-Black-Registration_Starting_Soon.png) |
-| Adult Softball | 16    | 9      | Color         | Black            | Registration               | [Adult_Softball-16_9-Color-Black-Registration.png](Rasterized/Adult_Softball-16_9-Color-Black-Registration.png)                             |
 | Adult Softball | 16    | 9      | Color         | Red              | Logo                       | [Adult_Softball-16_9-Color-Red-Logo.png](Rasterized/Adult_Softball-16_9-Color-Red-Logo.png)                                                 |
 
 # Public Use
