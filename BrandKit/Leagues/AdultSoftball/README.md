@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="../../../Assets/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
+  <img src="../../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
 
 # Description
 
 The logo has the standard Stanton Cty Park frame, consisting of the center banner, bottom arched text, and "Parks & Rec" in the southern hemisphere. The unique aspect of the image is the yellow-green softball coloring that composes the circled background and concave stitching that runs from top to bottom on the left and right sides.
 
-# Palette
+# Color Palette
 
 * **Lettering**: `#FFFFFF`
 * **Frame**: `#000000`
@@ -15,7 +15,7 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 
 # Rasterized Images
 
-| Full Name      | Width | Height | Color         | Background Color | Purpose                    | Filemame                                                                                                                                    |
+| Full Name      | Width | Height | Color         | Background Color | Purpose                    | Filename                                                                                                                                    |
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Adult Softball | 1     | 1      | Black & White | Transparent      | Logo                       | [Adult_Softball-1_1-BW-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-BW-Transparent-Logo.png)                                         |
 | Adult Softball | 1     | 1      | Color         | Black            | Logo                       | [Adult_Softball-1_1-Color-Black-Logo.png](Rasterized/Adult_Softball-1_1-Color-Black-Logo.png)                                               |

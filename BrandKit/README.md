@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Assets/Stanton City Park Logo_Full Color Logo - 1-1 (Transparent Background - White Stroke).png" alt="Stanton City Park Logo" width="300"/>
+  <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="300"/>
 </p>
 
 # Overview
@@ -10,7 +10,7 @@ The brand kit for the Stanton City Park provides files that can be used when cre
 
 You can download the entire brand kit here:
 
-<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/StantonCityPark-BrandKit.zip">![Static Badge](https://img.shields.io/badge/ZIP-Stantont%20City%20Park%20%20Brand%20Kit-62943f?logo=adobeacrobatreader)
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip">![Static Badge](https://img.shields.io/badge/ZIP-Stantont%20City%20Park%20%20Brand%20Kit-62943f?logo=adobeacrobatreader)
 </a>
 
 # Sections

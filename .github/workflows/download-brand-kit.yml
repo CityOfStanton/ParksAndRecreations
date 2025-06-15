@@ -22,9 +22,9 @@ jobs:
 
       - name: Create BrandKit zip
         run: |
-          rm -f Assets/StantonCityPark-BrandKit.zip
-          cd BrandKit
-          zip -r ../Assets/StantonCityPark-BrandKit.zip .
+          rm -f Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip
+          cd Assets/BrandKit/ZipFile/
+          zip -r ../Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip .
 
       - name: Configure git
         run: |
@@ -33,7 +33,7 @@ jobs:
 
       - name: Commit and push zip if changed
         run: |
-          git add Assets/StantonCityPark-BrandKit.zip
+          git add Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip
           if ! git diff --cached --quiet; then
             git commit -m "Update BrandKit zip after changes in BrandKit folder"
             git push

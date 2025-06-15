@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../Assets/Softball Logo_Full Color Logo - 1-1.png" alt="Softball Logo" width="300"/>
+  <img src="../../../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
 
 <center>

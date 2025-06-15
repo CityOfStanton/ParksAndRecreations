@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../../Assets/Baseball Logo_Full Color Logo - 1-1.png" alt="Baseball Logo" width="300"/>
+  <img src="../../../../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
 </p>
 
 

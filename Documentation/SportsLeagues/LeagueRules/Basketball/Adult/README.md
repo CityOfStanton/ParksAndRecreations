@@ -1,4 +1,5 @@
-  <img src="../../../../../Assets/Basketball Logo_Full Color Logo - 1-1.png" alt="Baseball Logo" width="300"/>
+<p align="center">
+  <img src="../../../../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
 </p>
 
 <!-- vscode-markdown-toc -->
