@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="600"/>
+  <img src="../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
 
 # Description
