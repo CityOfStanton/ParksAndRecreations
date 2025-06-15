@@ -22,7 +22,7 @@ jobs:
 
       - name: Create BrandKit zip
         run: |
-          rm -f Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip
+          rm -f ../Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip
           cd Assets/BrandKit/ZipFile/
           zip -r ../Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip .
 
