@@ -8,10 +8,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 
 # Palette
 
-* **Lettering**: <span style="background-color: white; color: black;">#FFFFFF</span>
-* **Frame**: <span style="background-color: black; color: white;">#000000</span>
-* **Inner Background**: <span style="background-color: #CCE500; color: black;">#CCE500</span>
-* **Stitching**: <span style="background-color: #FF0000; color: white;">#FF0000</span>
+* **Lettering**: `#FFFFFF`
+* **Frame**: `#000000`
+* **Inner Background** `#CCE500`
+* **Stitching**: `#FF0000`
 
 # Rasterized Images
 
