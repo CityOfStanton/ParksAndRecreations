@@ -1,10 +1,3 @@
-<style>
-    .lettering { background-color: white; color: black; }
-    .frame { background-color: black; color: white; }
-    .inner_background { background-color: #CCE500; color: black; }
-    .stitching { background-color: #FF0000; color: white; }
-</style>
-
 <p align="center">
   <img src="../../../Assets/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
@@ -15,10 +8,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 
 # Palette
 
-* **Lettering**: <span class="lettering">#FFFFFF</span>
-* **Frame**: <span class="frame">#000000</span>
-* **Inner Background**: <span class="inner_background">#CCE500</span>
-* **Stitching**: <span class="stitching">#FF0000</span>
+* **Lettering**: <span style="background-color: white; color: black;">#FFFFFF</span>
+* **Frame**: <span style="background-color: black; color: white;">#000000</span>
+* **Inner Background**: <span style="background-color: #CCE500; color: black;">#CCE500</span>
+* **Stitching**: <span style="background-color: #FF0000; color: white;">#FF0000</span>
 
 # Rasterized Images
 
