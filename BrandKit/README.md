@@ -6,6 +6,13 @@
 
 The brand kit for the Stanton City Park provides files that can be used when creating media, apparel, or other items representing the Stanton City Park or one of its leagues or sub-brands. Each section should detail design descriptions, color palettes, and provide guidelines for public use.
 
+# Download
+
+You can download the entire brand kit here:
+
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/StantonCityPark-BrandKit.zip">![Static Badge](https://img.shields.io/badge/ZIP-Stantont%20City%20Park%20%20Brand%20Kit-62943f?logo=adobeacrobatreader)
+</a>
+
 # Sections
 
 * [MainLogo](MainLogo)
@@ -23,7 +30,6 @@ All files in the brand kit are designed to avoid spaces, typically substituting 
 * **Color|BW**: The color mode of the image. Examples: `Color` or `BW` (Black & White)
 * **Background_Color**: The common name of the background color of the image. If the image has no defined background color, then `Transparent` is used.
 * **Purpose**: The purpose of the image formatted in Titled_Snake_Case. Example: `Logo` or `Registration_Starting_Soon`.
-
 
 # Public Use
 
