@@ -22,12 +22,10 @@ jobs:
 
       - name: Create BrandKit zip
         run: |
-          ls
           ZIP_FILE_PATH="Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip"
           rm -f $ZIP_FILE_PATH
           cd BrandKit
-          ls -la
-          zip -r $ZIP_FILE_PATH .
+          zip -r ../$ZIP_FILE_PATH .
 
       - name: Configure git
         run: |
