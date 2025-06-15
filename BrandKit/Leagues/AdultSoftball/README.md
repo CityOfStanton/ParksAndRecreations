@@ -1,3 +1,10 @@
+<style>
+    .lettering { background-color: white; color: black; }
+    .frame { background-color: black; color: white; }
+    .inner_background { background-color: #CCE500; color: black; }
+    .stitching { background-color: #FF0000; color: white; }
+</style>
+
 <p align="center">
   <img src="../../../Assets/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
@@ -8,20 +15,20 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 
 # Palette
 
-* **Lettering**: #FFFFFF
-* **Frame**: #000000
-* **Inner Background**: #CCE500
-* **Stitching**: #FF0000
+* **Lettering**: <span class="lettering">#FFFFFF</span>
+* **Frame**: <span class="frame">#000000</span>
+* **Inner Background**: <span class="inner_background">#CCE500</span>
+* **Stitching**: <span class="stitching">#FF0000</span>
 
 # Rasterized Images
 
-| Full Name      | Width | Height | Color         | Background Color | Purpose                    | Filemame                                                       |
-|----------------|-------|--------|---------------|------------------|----------------------------|----------------------------------------------------------------|
-| Adult Softball | 1     | 1      | Black & White | Transparent      | Logo                       | [Adult_Softball-1_1-BW-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-BW-Transparent-Logo.png)                     |
-| Adult Softball | 1     | 1      | Color         | Black            | Logo                       | [Adult_Softball-1_1-Color-Black-Logo.png](Rasterized/Adult_Softball-1_1-Color-Black-Logo.png)                        |
-| Adult Softball | 1     | 1      | Color         | Red              | Logo                       | [Adult_Softball-1_1-Color-Red-Logo.png](Rasterized/Adult_Softball-1_1-Color-Red-Logo.png)                          |
-| Adult Softball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Adult_Softball-1_1-Color-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-Color-Transparent-Logo.png)                  |
-| Adult Softball | 16    | 9      | Color         | Black            | Logo                       | [Adult_Softball-16_9-Color-Black-Logo.png](Rasterized/Adult_Softball-16_9-Color-Black-Logo.png)                       |
+| Full Name      | Width | Height | Color         | Background Color | Purpose                    | Filemame                                                                                                                                    |
+| -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Adult Softball | 1     | 1      | Black & White | Transparent      | Logo                       | [Adult_Softball-1_1-BW-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-BW-Transparent-Logo.png)                                         |
+| Adult Softball | 1     | 1      | Color         | Black            | Logo                       | [Adult_Softball-1_1-Color-Black-Logo.png](Rasterized/Adult_Softball-1_1-Color-Black-Logo.png)                                               |
+| Adult Softball | 1     | 1      | Color         | Red              | Logo                       | [Adult_Softball-1_1-Color-Red-Logo.png](Rasterized/Adult_Softball-1_1-Color-Red-Logo.png)                                                   |
+| Adult Softball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Adult_Softball-1_1-Color-Transparent-Logo.png](Rasterized/Adult_Softball-1_1-Color-Transparent-Logo.png)                                   |
+| Adult Softball | 16    | 9      | Color         | Black            | Logo                       | [Adult_Softball-16_9-Color-Black-Logo.png](Rasterized/Adult_Softball-16_9-Color-Black-Logo.png)                                             |
 | Adult Softball | 16    | 9      | Color         | Black            | Registration Starting Soon | [Adult_Softball-16_9-Color-Black-Registration_Starting_Soon.png](Rasterized/Adult_Softball-16_9-Color-Black-Registration_Starting_Soon.png) |
-| Adult Softball | 16    | 9      | Color         | Black            | Registration               | [Adult_Softball-16_9-Color-Black-Registration.png](Rasterized/Adult_Softball-16_9-Color-Black-Registration.png)               |
-| Adult Softball | 16    | 9      | Color         | Red              | Logo                       | [Adult_Softball-16_9-Color-Red-Logo.png](Rasterized/Adult_Softball-16_9-Color-Red-Logo.png)                         |
+| Adult Softball | 16    | 9      | Color         | Black            | Registration               | [Adult_Softball-16_9-Color-Black-Registration.png](Rasterized/Adult_Softball-16_9-Color-Black-Registration.png)                             |
+| Adult Softball | 16    | 9      | Color         | Red              | Logo                       | [Adult_Softball-16_9-Color-Red-Logo.png](Rasterized/Adult_Softball-16_9-Color-Red-Logo.png)                                                 |
