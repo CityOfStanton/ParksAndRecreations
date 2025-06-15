@@ -1,0 +1,42 @@
+name: Update Brand Kit Zip File
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'BrandKit/**'
+      - '.github/workflows/download-brand-kit.yml'
+
+jobs:
+  zip-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up zip
+        run: sudo apt-get update && sudo apt-get install -y zip
+
+      - name: Create BrandKit zip
+        run: |
+          rm -f Assets/StantonCityPark-BrandKit.zip
+          cd BrandKit
+          zip -r ../Assets/StantonCityPark-BrandKit.zip .
+
+      - name: Configure git
+        run: |
+          git config user.name "Github Workflow: Update Brand Kit Zip File"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and push zip if changed
+        run: |
+          git add Assets/StantonCityPark-BrandKit.zip
+          if ! git diff --cached --quiet; then
+            git commit -m "Update BrandKit zip after changes in BrandKit folder"
+            git push
+          else
+            echo "No changes to commit."
+          fi
