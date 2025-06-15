@@ -22,9 +22,8 @@ jobs:
 
       - name: Create BrandKit zip
         run: |
-          ls ../
-          ls ../../
-          ZIP_FILE_PATH="../../Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip"
+          ls
+          ZIP_FILE_PATH="Assets/BrandKit/ZipFile/StantonCityPark-BrandKit.zip"
           rm -f $ZIP_FILE_PATH
           cd Assets/BrandKit/ZipFile/
           zip -r $ZIP_FILE_PATH .
