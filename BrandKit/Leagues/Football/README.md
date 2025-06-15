@@ -18,10 +18,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Football | 1     | 1      | Black & White | Transparent      | Logo                       | [Football-1_1-BW-Transparent-Logo.png](Rasterized/Football-1_1-BW-Transparent-Logo.png)                                         |
 | Football | 1     | 1      | Color         | Black            | Logo                       | [Football-1_1-Color-Black-Logo.png](Rasterized/Football-1_1-Color-Black-Logo.png)                                               |
-| Football | 1     | 1      | Color         | Red              | Logo                       | [Football-1_1-Color-Red-Logo.png](Rasterized/Football-1_1-Color-Red-Logo.png)                                                   |
+| Football | 1     | 1      | Color         | Blue              | Logo                       | [Football-1_1-Color-Blue-Logo.png](Rasterized/Football-1_1-Color-Blue-Logo.png)                                                   |
 | Football | 1     | 1      | Color         | Transparent      | Main Logo                  | [Football-1_1-Color-Transparent-Logo.png](Rasterized/Football-1_1-Color-Transparent-Logo.png)                                   |
 | Football | 16    | 9      | Color         | Black            | Logo                       | [Football-16_9-Color-Black-Logo.png](Rasterized/Football-16_9-Color-Black-Logo.png)                                             |
-| Football | 16    | 9      | Color         | Red              | Logo                       | [Football-16_9-Color-Red-Logo.png](Rasterized/Football-16_9-Color-Red-Logo.png)                                                 |
+| Football | 16    | 9      | Color         | Blue              | Logo                       | [Football-16_9-Color-Blue-Logo.png](Rasterized/Football-16_9-Color-Blue-Logo.png)                                                 |
 
 # Public Use
 

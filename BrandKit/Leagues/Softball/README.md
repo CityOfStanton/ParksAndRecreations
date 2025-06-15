@@ -18,10 +18,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Softball | 1     | 1      | Black & White | Transparent      | Logo                       | [Softball-1_1-BW-Transparent-Logo.png](Rasterized/Softball-1_1-BW-Transparent-Logo.png)                                         |
 | Softball | 1     | 1      | Color         | Black            | Logo                       | [Softball-1_1-Color-Black-Logo.png](Rasterized/Softball-1_1-Color-Black-Logo.png)                                               |
-| Softball | 1     | 1      | Color         | Red              | Logo                       | [Softball-1_1-Color-Red-Logo.png](Rasterized/Softball-1_1-Color-Red-Logo.png)                                                   |
+| Softball | 1     | 1      | Color         | Purple              | Logo                       | [Softball-1_1-Color-Purple-Logo.png](Rasterized/Softball-1_1-Color-Purple-Logo.png)                                                   |
 | Softball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Softball-1_1-Color-Transparent-Logo.png](Rasterized/Softball-1_1-Color-Transparent-Logo.png)                                   |
 | Softball | 16    | 9      | Color         | Black            | Logo                       | [Softball-16_9-Color-Black-Logo.png](Rasterized/Softball-16_9-Color-Black-Logo.png)                                             |
-| Softball | 16    | 9      | Color         | Red              | Logo                       | [Softball-16_9-Color-Red-Logo.png](Rasterized/Softball-16_9-Color-Red-Logo.png)                                                 |
+| Softball | 16    | 9      | Color         | Purple              | Logo                       | [Softball-16_9-Color-Purple-Logo.png](Rasterized/Softball-16_9-Color-Purple-Logo.png)                                                 |
 
 # Public Use
 

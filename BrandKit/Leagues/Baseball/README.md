@@ -16,12 +16,12 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 
 | Full Name      | Width | Height | Color         | Background Color | Purpose                    | Filename                                                                                                                                    |
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Baseball | 1     | 1      | Black & White | Transparent      | Logo                       | [Baseball-1_1-BW-Transparent-Logo.png](Rasterized/FBaseball-1_1-BW-Transparent-Logo.png)                                         |
-| Baseball | 1     | 1      | Color         | Black            | Logo                       | [Baseball-1_1-Color-Black-Logo.png](Rasterized/FBaseball-1_1-Color-Black-Logo.png)                                               |
-| Baseball | 1     | 1      | Color         | Red              | Logo                       | [Baseball-1_1-Color-Red-Logo.png](Rasterized/FBaseball-1_1-Color-Red-Logo.png)                                                   |
-| Baseball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Baseball-1_1-Color-Transparent-Logo.png](Rasterized/FBaseball-1_1-Color-Transparent-Logo.png)                                   |
-| Baseball | 16    | 9      | Color         | Black            | Logo                       | [Baseball-16_9-Color-Black-Logo.png](Rasterized/FBaseball-16_9-Color-Black-Logo.png)                                             |
-| Baseball | 16    | 9      | Color         | Red              | Logo                       | [Baseball-16_9-Color-Red-Logo.png](Rasterized/FBaseball-16_9-Color-Red-Logo.png)                                                 |
+| Baseball | 1     | 1      | Black & White | Transparent      | Logo                       | [Baseball-1_1-BW-Transparent-Logo.png](Rasterized/Baseball-1_1-BW-Transparent-Logo.png)                                         |
+| Baseball | 1     | 1      | Color         | Black            | Logo                       | [Baseball-1_1-Color-Black-Logo.png](Rasterized/Baseball-1_1-Color-Black-Logo.png)                                               |
+| Baseball | 1     | 1      | Color         | Red              | Logo                       | [Baseball-1_1-Color-Red-Logo.png](Rasterized/Baseball-1_1-Color-Red-Logo.png)                                                   |
+| Baseball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Baseball-1_1-Color-Transparent-Logo.png](Rasterized/Baseball-1_1-Color-Transparent-Logo.png)                                   |
+| Baseball | 16    | 9      | Color         | Black            | Logo                       | [Baseball-16_9-Color-Black-Logo.png](Rasterized/Baseball-16_9-Color-Black-Logo.png)                                             |
+| Baseball | 16    | 9      | Color         | Red              | Logo                       | [Baseball-16_9-Color-Red-Logo.png](Rasterized/Baseball-16_9-Color-Red-Logo.png)                                                 |
 
 # Public Use
 

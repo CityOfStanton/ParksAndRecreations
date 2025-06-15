@@ -18,10 +18,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Soccer | 1     | 1      | Black & White | Transparent      | Logo                       | [Soccer-1_1-BW-Transparent-Logo.png](Rasterized/Soccer-1_1-BW-Transparent-Logo.png)                                         |
 | Soccer | 1     | 1      | Color         | Black            | Logo                       | [Soccer-1_1-Color-Black-Logo.png](Rasterized/Soccer-1_1-Color-Black-Logo.png)                                               |
-| Soccer | 1     | 1      | Color         | Red              | Logo                       | [Soccer-1_1-Color-Red-Logo.png](Rasterized/Soccer-1_1-Color-Red-Logo.png)                                                   |
+| Soccer | 1     | 1      | Color         | Orange              | Logo                       | [Soccer-1_1-Color-Orange-Logo.png](Rasterized/Soccer-1_1-Color-Orange-Logo.png)                                                   |
 | Soccer | 1     | 1      | Color         | Transparent      | Main Logo                  | [Soccer-1_1-Color-Transparent-Logo.png](Rasterized/Soccer-1_1-Color-Transparent-Logo.png)                                   |
 | Soccer | 16    | 9      | Color         | Black            | Logo                       | [Soccer-16_9-Color-Black-Logo.png](Rasterized/Soccer-16_9-Color-Black-Logo.png)                                             |
-| Soccer | 16    | 9      | Color         | Red              | Logo                       | [Soccer-16_9-Color-Red-Logo.png](Rasterized/Soccer-16_9-Color-Red-Logo.png)                                                 |
+| Soccer | 16    | 9      | Color         | Orange              | Logo                       | [Soccer-16_9-Color-Orange-Logo.png](Rasterized/Soccer-16_9-Color-Orange-Logo.png)                                                 |
 
 # Public Use
 

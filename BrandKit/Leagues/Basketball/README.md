@@ -18,10 +18,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Basketball | 1     | 1      | Black & White | Transparent      | Logo                       | [Basketball-1_1-BW-Transparent-Logo.png](Rasterized/Basketball-1_1-BW-Transparent-Logo.png)                                         |
 | Basketball | 1     | 1      | Color         | Black            | Logo                       | [Basketball-1_1-Color-Black-Logo.png](Rasterized/Basketball-1_1-Color-Black-Logo.png)                                               |
-| Basketball | 1     | 1      | Color         | Red              | Logo                       | [Basketball-1_1-Color-Red-Logo.png](Rasterized/Basketball-1_1-Color-Red-Logo.png)                                                   |
+| Basketball | 1     | 1      | Color         | Green              | Logo                       | [Basketball-1_1-Color-Green-Logo.png](Rasterized/Basketball-1_1-Color-Green-Logo.png)                                                   |
 | Basketball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Basketball-1_1-Color-Transparent-Logo.png](Rasterized/Basketball-1_1-Color-Transparent-Logo.png)                                   |
 | Basketball | 16    | 9      | Color         | Black            | Logo                       | [Basketball-16_9-Color-Black-Logo.png](Rasterized/Basketball-16_9-Color-Black-Logo.png)                                             |
-| Basketball | 16    | 9      | Color         | Red              | Logo                       | [Basketball-16_9-Color-Red-Logo.png](Rasterized/Basketball-16_9-Color-Red-Logo.png)                                                 |
+| Basketball | 16    | 9      | Color         | Green              | Logo                       | [Basketball-16_9-Color-Green-Logo.png](Rasterized/Basketball-16_9-Color-Green-Logo.png)                                                 |
 
 # Public Use
 

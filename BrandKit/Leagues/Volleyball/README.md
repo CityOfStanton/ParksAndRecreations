@@ -18,10 +18,10 @@ The logo has the standard Stanton Cty Park frame, consisting of the center banne
 | -------------- | ----- | ------ | ------------- | ---------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | Volleyball | 1     | 1      | Black & White | Transparent      | Logo                       | [Volleyball-1_1-BW-Transparent-Logo.png](Rasterized/Volleyball-1_1-BW-Transparent-Logo.png)                                         |
 | Volleyball | 1     | 1      | Color         | Black            | Logo                       | [Volleyball-1_1-Color-Black-Logo.png](Rasterized/Volleyball-1_1-Color-Black-Logo.png)                                               |
-| Volleyball | 1     | 1      | Color         | Red              | Logo                       | [Volleyball-1_1-Color-Red-Logo.png](Rasterized/Volleyball-1_1-Color-Red-Logo.png)                                                   |
+| Volleyball | 1     | 1      | Color         | Yellow              | Logo                       | [Volleyball-1_1-Color-Yellow-Logo.png](Rasterized/Volleyball-1_1-Color-Yellow-Logo.png)                                                   |
 | Volleyball | 1     | 1      | Color         | Transparent      | Main Logo                  | [Volleyball-1_1-Color-Transparent-Logo.png](Rasterized/Volleyball-1_1-Color-Transparent-Logo.png)                                   |
 | Volleyball | 16    | 9      | Color         | Black            | Logo                       | [Volleyball-16_9-Color-Black-Logo.png](Rasterized/Volleyball-16_9-Color-Black-Logo.png)                                             |
-| Volleyball | 16    | 9      | Color         | Red              | Logo                       | [Volleyball-16_9-Color-Red-Logo.png](Rasterized/Volleyball-16_9-Color-Red-Logo.png)                                                 |
+| Volleyball | 16    | 9      | Color         | Yellow              | Logo                       | [Volleyball-16_9-Color-Yellow-Logo.png](Rasterized/Volleyball-16_9-Color-Yellow-Logo.png)                                                 |
 
 # Public Use
 
