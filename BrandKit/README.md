@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Assets/Stanton City Park Logo_Full Color Logo - 1-1 (Transparent Background).png" alt="Stanton City Park Logo" width="300"/>
+  <img src="../Assets/Stanton City Park Logo_Full Color Logo - 1-1 (Transparent Background - White Stroke).png" alt="Stanton City Park Logo" width="300"/>
 </p>
 
 # Overview
