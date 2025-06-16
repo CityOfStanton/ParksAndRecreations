@@ -17,7 +17,16 @@ You can download the entire brand kit here:
 
 * [MainLogo](MainLogo)
 * [Leagues](Leagues\Main)
-  * [Adult Softball](Leagues/AdultSoftball)
+  * Adult
+    * [Adult Softball](Leagues/AdultSoftball)
+    * [Basketball](Leagues/Basketball)
+  * Youth
+    * [Baseball](Leagues/Baseball)
+    * [Basketball](Leagues/Basketball)
+    * [Football](Leagues/Football)
+    * [Soccer](Leagues/Soccer)
+    * [Softball](Leagues/Softball)
+    * [Volleyball](Leagues/Volleyball)
 
 # Naming Convention
 
