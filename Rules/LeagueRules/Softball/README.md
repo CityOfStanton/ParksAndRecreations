@@ -19,7 +19,6 @@
   - [Coach Pitch](#coach-pitch)
   - [Kid Pitch](#kid-pitch)
 
-
 # Stanton Parks and Rec Youth Softball Rules
 
 ## General Park Rules
