@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
+  <img src="../../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="300"/>
 </p>
 
 <center>
@@ -24,7 +24,7 @@
 
 ## General Park Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../../../Documentation/Rules/README.md), without exception.
+All participants will adhere to the [Stanton City Park Rules](../../../Documentation/Rules/README.md), without exception.
 
 ## League Rules
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
+  <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
 </p>
 
 # Park Rules
