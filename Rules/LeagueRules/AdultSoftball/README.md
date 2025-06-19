@@ -4,7 +4,7 @@
 
 <center>
 
-[![Park Website](https://img.shields.io/badge/park_website-77a459?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-softball/)  [![Adult Softball Website](https://img.shields.io/badge/adult_softball_website-CCE500?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-softball/)  [![Online Scheduling](https://img.shields.io/badge/online_scheduling-3e83c7?style=for-the-badge&logo=About.me&logoColor=white)](http://www.quickscores.com/StantonCityPark/)    [![Adult Softball Facebook](https://img.shields.io/badge/Adult_Softball_Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.patreon.com/ThePerfectStrangers)
+[![Park Website](https://img.shields.io/badge/park_website-77a459?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-softball/)  [![Adult Softball Website](https://img.shields.io/badge/adult_softball_website-CCE500?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-adult-softball/)  [![Online Scheduling](https://img.shields.io/badge/online_scheduling-3e83c7?style=for-the-badge&logo=About.me&logoColor=white)](http://www.quickscores.com/StantonCityPark/)    [![Adult Softball Facebook](https://img.shields.io/badge/Adult_Softball_Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/StantonParksAndRecAdultSoftball)
 
 </center>
 
