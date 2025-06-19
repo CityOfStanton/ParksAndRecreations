@@ -89,11 +89,9 @@ All participants will adhere to the [Stanton City Park Rules](../../../../Docume
 
 ### Team Rosters
 
-1. There's a maximum of 12 players per roster.
-
-2. Teams consist of 6 male and 4 female players.
+1. Teams consist of 6 male and 4 female players.
     1. At least 2 female players must be playing defensively at all times. The catcher must be a female.
-    1. If a female player must exit the game, the team must subtract 1 male player from the lineup replace that female with another female from the bench.
+    1. If a female player must exit the game, the team must replace that female with another female from the bench or subtract 1 male player from the lineup.
     1. A team may play with 8, but 2 female players must play at all times.
     1. A team may not consist of more than 12 players.
 
@@ -103,9 +101,11 @@ All participants will adhere to the [Stanton City Park Rules](../../../../Docume
 
 5. Females are not allowed to pitch or play 3rd base.
 
+6. Rosters can be modified until the first start time of the 3 week of games. After this time, modifications must go through the commissioner and be approved by a majority vote of team captains, excluding the captain of the team requesting the roster modification.
+
 ### Uniforms
 
-1. Shirts will be provided as part of the entry fee. This will be a colored dri-fit shirt with the Stanton Parks & Rec logo on the front and a number on the back.
+1. Shirts will be provided as part of the entry fee. This will be a dri-fit shirt that matches the team color with the team name and Stanton Parks & Rec logo on the front and a number on the back.
 
 2. Teams may bring their own uniforms, but they all must match. There will be no discount if a team supplies their own uniform.
 
