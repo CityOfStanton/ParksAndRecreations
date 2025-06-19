@@ -8,7 +8,7 @@
 
 </center>
 
-- [Rules](#rules)
+- [Stanton Parks and Rec Youth Softball Rules](#stanton-parks-and-rec-youth-softball-rules)
   - [General Park Rules](#general-park-rules)
   - [League Rules](#league-rules)
   - [T-Ball \& Instructional League Rules](#t-ball--instructional-league-rules)
@@ -20,7 +20,7 @@
   - [Kid Pitch](#kid-pitch)
 
 
-# Rules
+# Stanton Parks and Rec Youth Softball Rules
 
 ## General Park Rules
 
