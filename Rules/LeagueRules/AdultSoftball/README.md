@@ -109,7 +109,9 @@ All participants will adhere to the [Stanton City Park Rules](../../../../Docume
 
 2. Teams may bring their own uniforms, but they all must match. There will be no discount if a team supplies their own uniform.
 
-2. No metal cleats. Molded cleats, tennis shoes, or turf shoes are acceptable.
+3. If a team chooses to bring their own uniforms, they may not be allowed to wear their uniforms if they conflict in color with the opposing team. This determination will be handled by the umpire.
+
+3. No metal cleats. Molded cleats, tennis shoes, or turf shoes are acceptable.
 
 ### Attendance
 
