@@ -19,11 +19,18 @@ Descriptions, vector logos, rasterized logos, and more.
 <a id="raw-url" href="/BrandKit">![Static Badge](https://img.shields.io/badge/Goto-Brand_Kit-62943f)
 </a>
 
-# Rules
+# Park Rules
 
-Rules, guidelines, and more information for the park and its sports leagues.
+Rules for the park.
 
-<a id="raw-url" href="/Documentation/">![Static Badge](https://img.shields.io/badge/Goto-Park_And_League_Rules-62943f)
+<a id="raw-url" href="/Documentation/">![Static Badge](https://img.shields.io/badge/Goto-Park_Rules-62943f)
+</a>
+
+# League Rules
+
+Rules, guidelines, and more information for the sports leagues.
+
+<a id="raw-url" href="/Documentation/">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
 </a>
 
 # Report an Issue
