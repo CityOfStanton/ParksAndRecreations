@@ -23,14 +23,14 @@ Descriptions, vector logos, rasterized logos, and more.
 
 Rules for the park.
 
-<a id="raw-url" href="/Documentation/">![Static Badge](https://img.shields.io/badge/Goto-Park_Rules-62943f)
+<a id="raw-url" href="/Rules">![Static Badge](https://img.shields.io/badge/Goto-Park_Rules-62943f)
 </a>
 
 # League Rules
 
 Rules, guidelines, and more information for the sports leagues.
 
-<a id="raw-url" href="/Documentation/">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
+<a id="raw-url" href="/Rules/LeagueRules">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
 </a>
 
 # Report an Issue
