@@ -19,8 +19,8 @@
     - [Entry Fee](#entry-fee)
     - [Schedule](#schedule)
     - [Unsportsmanlike Conduct](#unsportsmanlike-conduct)
-  - [Teams and Rosters](#teams-and-rosters)
-    - [Team Rosters](#team-rosters)
+  - [Teams](#teams)
+    - [Rosters](#rosters)
     - [Uniforms](#uniforms)
     - [Attendance](#attendance)
     - [Tournament Eligibility](#tournament-eligibility)
@@ -95,9 +95,9 @@ Failure to comply with any rules may result in your dismissal from the league (n
 
 3. Anyone starting or pursuing a fight with another player, coach, or spectator will be suspended from the program indefinitely. Any player ejected from a game will be suspended a minimum of two games and must visit with the League Director before playing another game.
 
-## Teams and Rosters
+## Teams
 
-### Team Rosters
+### Rosters
 
 1. Teams consist of 6 male and 4 female players.
     1. At least 2 female players must be playing defensively at all times. The catcher must be a female.
