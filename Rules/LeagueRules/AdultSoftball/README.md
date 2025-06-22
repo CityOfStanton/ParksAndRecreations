@@ -11,6 +11,8 @@
 - [Stanton Parks and Rec Adult Co-Ed Fall Softball League Rules](#stanton-parks-and-rec-adult-co-ed-fall-softball-league-rules)
   - [General Park Rules](#general-park-rules)
   - [General](#general)
+    - [Eligibility](#eligibility)
+    - [Penalty](#penalty)
     - [Balls](#balls)
     - [Alcohol](#alcohol)
     - [Dugout](#dugout)
@@ -37,6 +39,14 @@
 All participants will adhere to the [Stanton City Park Rules](../../../../Documentation/Rules/README.md), without exception.
 
 ## General
+
+### Eligibility
+
+To be eligible, you must be 18 years old. If you turn 18 later in the season, you can be on a team, but may not participate in a game until you are 18 years old.
+
+### Penalty
+
+Failure to comply with any rules may result in your dismissal from the league (no refund), expulsion from the park, or banning from the park.
 
 ### Balls
 
