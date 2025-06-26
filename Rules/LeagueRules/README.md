@@ -32,6 +32,6 @@ This directory contains the official rules and guidelines for all leagues and sp
 
 ## General Park Rules
 
-All participants in any league must adhere to the [Stanton City Park Rules](../../Documentation/Rules/README.md), without exception.
+All participants in any league must adhere to the [Stanton City Park Rules](../README.md), without exception.
 
 For detailed rules for each league, refer to the `README.md` file in the corresponding subfolder.

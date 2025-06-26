@@ -23,7 +23,7 @@
 
 ## General Park Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../../Documentation/Rules/README.md), without exception.
+All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
 
 ## League Rules
 
