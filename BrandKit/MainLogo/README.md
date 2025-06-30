@@ -16,13 +16,15 @@ The logo contains the "Stanton" name in white on the center of a black banner. T
 * **Tree**: `#000000`
 * **Family of four**: `#000000`
 * **Swing**: `#000000`
-* **Sky** `#5B9BD5`
-* **Mountain shade 1**: `#62943F`
-* **Mountain shade 2**: `#77A359`
-* **Mountain shade 3**: `#92B57B`
-* **Mountain shade 4**: `#BDD2AE`
-* **Banded bar 1**: `#62953F`
-* **Banded bar 2**: `#93B67B`
+* **Sky (Primary Blue)** `#5B9BD5`
+* **Mountain shade 1**: `#558C30`
+* **Mountain shade 2 (Primary Green)**: `#62943F`
+* **Mountain shade 3**: `#77A259`
+* **Mountain shade 4**: `#77A359`
+* **Mountain shade 5**: `#92B57B`
+* **Mountain shade 6**: `#BDD2AE`
+* **Banded bar (Darker)**: `#62953F`
+* **Banded bar (Lighter)**: `#93B67B`
 * **Top arched text** `#5B9BD5`
 * **Bottom arched text** `#5E8F3C`
 
