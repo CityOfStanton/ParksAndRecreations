@@ -109,9 +109,7 @@ Failure to comply with any rules may result in your dismissal from the league (n
 
 4. All bats must be stamped.
 
-5. Females are not allowed to pitch or play 3rd base.
-
-6. Rosters can be modified until the first start time of the 3 week of games. After this time, modifications must go through the commissioner and be approved by a majority vote of team captains, excluding the captain of the team requesting the roster modification.
+5. Rosters can be modified until the first start time of the 3 week of games. After this time, modifications must go through the commissioner and be approved by a majority vote of team captains, excluding the captain of the team requesting the roster modification.
 
 ### Uniforms
 
