@@ -16,7 +16,7 @@
     - [Balls](#balls)
     - [Alcohol](#alcohol)
     - [Dugout](#dugout)
-    - [Entry Fee](#entry-fee)
+    - [Entry Fee/Registration](#entry-feeregistration)
     - [Schedule](#schedule)
     - [Unsportsmanlike Conduct](#unsportsmanlike-conduct)
   - [Teams](#teams)
@@ -68,11 +68,12 @@ Failure to comply with any rules may result in your dismissal from the league (n
     1. The on-deck batter in the designated circle.
     1. One 1st base coach and one 3rd base coach in the designated areas.
 
-### Entry Fee
+### Entry Fee/Registration
 
-1. Entry fee will be set by the league each season. This will include your team shirt and will also cover the cost for game balls and umpire fees.
-
-2. The total team fee will range between $500 and $650 per team. This depends on the number of teams we can host each season.
+1. Entry fee will be set by the league each season. This will cover the cost for game balls,  umpire fees, etc.
+2. Registering a team will take place in two phases:
+   1. Phase One: A person designated as the team captain will register on behalf of the team by submitting a non-refundable deposit. This person will be the single point-of-contact for the team.
+   2. Phase Two: The team captain will submit the remaining payment after the first payment has been received and before the league begins.
 
 ### Schedule
 
@@ -103,23 +104,21 @@ Failure to comply with any rules may result in your dismissal from the league (n
     1. At least 2 female players must be playing defensively at all times. The catcher must be a female.
     1. If a female player must exit the game, the team must replace that female with another female from the bench or subtract 1 male player from the lineup.
     1. A team may play with 8, but 2 female players must play at all times.
-    1. A team may not consist of more than 12 players.
+    1. A team may have a maximum of 15 players on their roster.
+    1. Rosters cannot be modified once league games begin.
+    1. Roster modifications after this time will need to be approved by the league commissioner.
 
-3. **Game Time**: Game time is forfeit time. Teams not ready to play at the designated time shall forfeit. A team must have 8 players to start or finish a game. No automatic out for playing short. If a team only bats 8 players, their opponent also has the option of only batting 8.
+2. **Game Time**: Game time is forfeit time. Teams not ready to play at the designated time shall forfeit. A team must have 8 players to start or finish a game. No automatic out for playing short. If a team only bats 8 players, their opponent also has the option of only batting 8.
 
-4. All bats must be stamped.
+3. All bats must be stamped.
 
-5. Rosters can be modified until the first start time of the 3 week of games. After this time, modifications must go through the commissioner and be approved by a majority vote of team captains, excluding the captain of the team requesting the roster modification.
+4. Rosters can be modified until the first start time of the 3 week of games. After this time, modifications must go through the commissioner and be approved by a majority vote of team captains, excluding the captain of the team requesting the roster modification.
 
 ### Uniforms
 
-1. Shirts will be provided as part of the entry fee. This will be a dri-fit shirt that matches the team color with the team name and Stanton Parks & Rec logo on the front and a number on the back.
-
-2. Teams may bring their own uniforms, but they all must match. There will be no discount if a team supplies their own uniform.
-
-3. If a team chooses to bring their own uniforms, they may not be allowed to wear their uniforms if they conflict in color with the opposing team. This determination will be handled by the umpire.
-
-3. No metal cleats. Molded cleats, tennis shoes, or turf shoes are acceptable.
+1. Teams are responsible for providing their own uniforms.
+2. Teams uniforms must match.
+4. No metal cleats. Molded cleats, tennis shoes, or turf shoes are acceptable.
 
 ### Attendance
 
