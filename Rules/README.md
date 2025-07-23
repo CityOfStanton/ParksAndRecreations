@@ -39,3 +39,17 @@
 17. No persons using the park shall use profane, obscene, threatening, or indecent language or shall act in an obscene or indecent manner.
 
 18. Bicycles are permitted on city-sponsored events and paths so long as they do not interfere with pedestrian traffic. City-sponsored events that are open to the public are exempt from this rule.
+
+# League Roles
+
+
+| Logo | League           |
+|------|------------------|
+| <img src="../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="100"/> | [Adult Softball](../Rules/LeagueRules/AdultSoftball/README.md)   |
+| <img src="../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Adult Basketball Logo" width="100"/> | [Adult Basketball](../Rules/LeagueRules/AdultBasketball/README.md) |
+| <img src="../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="100"/> | [Baseball](../Rules/LeagueRules/Baseball/README.md)         |
+| <img src="../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Basketball Logo" width="100"/> | Basketball       |
+| <img src="../Assets/Images/Logos/Football-1_1-Color-Transparent-Logo.png" alt="Football Logo" width="100"/> | Football           |
+| <img src="../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="100"/> | [Soccer](../Rules/LeagueRules/Soccer/README.md)           |
+| <img src="../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="100"/> | [Softball](../Rules/LeagueRules/Softball/README.md)         |
+| <img src="../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="100"/> | Volleyball       |
