@@ -2,6 +2,9 @@
   <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
 </p>
 
+- [Park Rules](#park-rules)
+- [League Rules](#league-rules)
+
 # Park Rules
 
 1. The city park shall be open to the public from sunrise until 9:00 pm for anyone under 18. Anyone under 18 must be accompanied by a guardian after 9:00 pm. (City-sponsored or approved events that are open to the public are exempt from this time.)
