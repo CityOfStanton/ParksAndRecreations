@@ -40,7 +40,7 @@
 
 18. Bicycles are permitted on city-sponsored events and paths so long as they do not interfere with pedestrian traffic. City-sponsored events that are open to the public are exempt from this rule.
 
-# League Roles
+# League Rules
 
 
 | Logo | League           |
