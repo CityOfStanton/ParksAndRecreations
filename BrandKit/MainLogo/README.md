@@ -27,6 +27,7 @@ The logo contains the "Stanton" name in white on the center of a black banner. T
 * **Banded bar (Lighter)**: `#93B67B`
 * **Top arched text** `#5B9BD5`
 * **Bottom arched text** `#5E8F3C`
+* **WinterFest grey** `#3F3F3F`
 
 # Rasterized Images
 
@@ -41,7 +42,8 @@ The logo contains the "Stanton" name in white on the center of a black banner. T
 | Stanton_City_Park | 16    | 9      | Color         | Black            | Logo                       | [Stanton_City_Park-16_9-Color-Black-Logo.png](Rasterized/Stanton_City_Park-16_9-Color-Black-Logo.png)                                             |
 | Stanton_City_Park | 16    | 9      | Color         | Black            | Smaller Logo            | [Stanton_City_Park-16_9-Color-Black-Smaller_Logo.png](Rasterized/Stanton_City_Park-16_9-Color-Black-Smaller_Logo.png)                                                 |
 | Stanton_City_Park | 16    | 9      | Color         | Blue             | Logo                       | [Stanton_City_Park-16_9-Color-Blue-Logo.png](Rasterized/Stanton_City_Park-16_9-Color-Blue-Logo.png)                                                 |
-| Stanton_City_Park | 16    | 9      | Color         | Green            | Logo                       | [Stanton_City_Park-16_9-Color-Green-Logo.png](Rasterized/Stanton_City_Park-16_9-Color-Green-Logo.png)                                                 |
+| Stanton_City_Park | 16    | 9      | Color         | Green            | Logo                       | [Stanton_City_Park-16_9-Color-Green-Logo.png](Rasterized/Stanton_City_Park-16_9-Color-Green-Logo.png)                                                 |                                               |
+| Stanton_City_Park | 1    | 1      | Color         | Transparent            | WinterFest Logo                       | [Stanton_City_Park-1_1-Color-Transparent-WinterFestLogo.png](Rasterized/Stanton_City_Park-1_1-Color-Transparent-WinterFestLogo.png) 
 
 # Public Use
 
