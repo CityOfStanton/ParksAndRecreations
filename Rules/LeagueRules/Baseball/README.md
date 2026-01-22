@@ -155,11 +155,11 @@ Once the ball has stopped, TIME will be called. Overthrow to 1st and 3rd bases a
 ### Kid Pitch & Advanced Kid Pitch
 
 #### Guidelines
-3 outs or 6 runs
-Bunting and stealing is allowed. Stealing after ball crosses plate
-Dropped strike 3/ no running from batter
-Pitch count: 75 pitches per game, if they go over they can finish batter. 11/12 pitch count 85
-21-35 pitches requires one day rest
-36-50 requires two days rest
-Anything after 50 requires 3 days rest
-Sliding is needed at second, third and home on a play being made or they may be called out.
+- 3 outs or 6 runs
+- Bunting and stealing is allowed. Stealing after ball crosses plate
+- Dropped strike 3/ no running from batter
+- Pitch count: 75 pitches per game, if they go over they can finish batter. 11/12 pitch count 85
+- 21-35 pitches requires one day rest
+- 36-50 requires two days rest
+- Anything after 50 requires 3 days rest
+- Sliding is needed at second, third and home on a play being made or they may be called out.
