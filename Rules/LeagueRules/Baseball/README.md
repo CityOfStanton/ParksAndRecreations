@@ -10,6 +10,7 @@
 
 - [Rules](#rules)
   - [General Park Rules](#general-park-rules)
+  - [Drafting](#drafting)
   - [League Rules](#league-rules)
     - [Instructional League](#instructional-league)
       - [Eligibility](#eligibility)
@@ -41,13 +42,22 @@
 
 # Rules
 
-Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board. [Official Little League baseball rules](LittleLeagueRuleBook.md) will be followed in all circumstances, except when noted below.
+Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board. 
 
 ## General Park Rules
 
 All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
 
+## Drafting 
+
+This league will follow the [Stanton City Park Youth League Drafting](../README.md#youth-league-drafting) rules.
+
 ## League Rules
+
+[Official Little League baseball rules](https://www.littleleague.org/playing-rules/little-league-rulebook-app/) will be followed in all circumstances, except when noted below. You can download the Little League rules from their [official Little League rules app](official Little League rules).
+
+<a id="raw-url" href="[/BrandKit](https://www.littleleague.org/playing-rules/little-league-rulebook-app/)">![Static Badge](https://img.shields.io/badge/Download-Official_Little_League_Rules_App-62943f)
+</a>
 
 We will have coaches boxes and painted circle for the pitcher. Coaches are to stay in the boxes and not touch a live player. If this happens, it will only be called out after a called time and a discussion with the umpire. Umpires call stands.
 

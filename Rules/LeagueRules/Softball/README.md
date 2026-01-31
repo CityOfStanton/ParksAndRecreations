@@ -10,6 +10,7 @@
 
 - [Stanton Parks and Rec Youth Softball Rules](#stanton-parks-and-rec-youth-softball-rules)
   - [General Park Rules](#general-park-rules)
+  - [Drafting](#drafting)
   - [League Rules](#league-rules)
   - [T-Ball \& Instructional League Rules](#t-ball--instructional-league-rules)
   - [Coach Pitch and Kid Pitch Rules](#coach-pitch-and-kid-pitch-rules)
@@ -24,6 +25,10 @@
 ## General Park Rules
 
 All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
+
+## Drafting 
+
+This league will follow the [Stanton City Park Youth League Drafting](../README.md#youth-league-drafting) rules.
 
 ## League Rules
 
