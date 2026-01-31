@@ -16,6 +16,7 @@
     - [6U Division](#6u-division)
     - [8U Division](#8u-division)
     - [12U Division](#12u-division)
+  - [League Commissioner Override](#league-commissioner-override)
 
 # Stanton Parks and Rec Youth Soccer Rules
 
@@ -95,3 +96,6 @@ Please remember that the Refs (8U and 12U only) are high school players, and lik
 - **Offsides**: The offensive players must not be behind (closer to their scoring goal) the defense’s lowest (closest to their defending goal) player, excluding the goalie. If it occurs, the play is dead, and the defensive team will receive the ball in the spot that the offside violation occurred.
 - **Positions**: Coaching the fundamentals of positions on the field and the importance of playing them versus ball chasing. Includes goalie, defense, midfield, and offense. Tons of 7v7 formations on the internet to research. “Pass the ball” or “Shoot the ball,” we do NOT “kick the ball.”
 
+## League Commissioner Override
+
+The league commissioner may, at their discretion, override, modify, add, or remove any rules in order to provide a safe, fair, and competitive league.

@@ -8,7 +8,7 @@
 
 </center>
 
-- [Rules](#rules)
+- [Stanton Parks and Rec Youth Baseball/T-Ball Rules](#stanton-parks-and-rec-youth-baseballt-ball-rules)
   - [General Park Rules](#general-park-rules)
   - [Drafting](#drafting)
   - [League Rules](#league-rules)
@@ -38,9 +38,10 @@
       - [Guidelines](#guidelines-2)
     - [Kid Pitch \& Advanced Kid Pitch](#kid-pitch--advanced-kid-pitch)
       - [Guidelines](#guidelines-3)
+  - [League Commissioner Override](#league-commissioner-override)
 
 
-# Rules
+# Stanton Parks and Rec Youth Baseball/T-Ball Rules
 
 Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board. 
 
@@ -173,3 +174,7 @@ Once the ball has stopped, TIME will be called. Overthrow to 1st and 3rd bases a
 - 36-50 requires two days rest
 - Anything after 50 requires 3 days rest
 - Sliding is needed at second, third and home on a play being made or they may be called out.
+
+## League Commissioner Override
+
+The league commissioner may, at their discretion, override, modify, add, or remove any rules in order to provide a safe, fair, and competitive league.

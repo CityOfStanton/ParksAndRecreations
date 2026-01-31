@@ -14,6 +14,7 @@
   - [League Rules](#league-rules)
   - [T-Ball \& Instructional League Rules](#t-ball--instructional-league-rules)
   - [Coach Pitch and Kid Pitch Rules](#coach-pitch-and-kid-pitch-rules)
+  - [League Commissioner Override](#league-commissioner-override)
 - [League Concepts](#league-concepts)
   - [Instructional League](#instructional-league)
   - [T-Ball](#t-ball)
@@ -56,6 +57,10 @@ This league will follow the [Stanton City Park Youth League Drafting](../README.
 2. The scorekeepers’ book is the ultimate source of truth for scoring issues.
 3. Face mask for helmets and regular fielding face mask are required. Players may not go on to the field without them.
 
+## League Commissioner Override
+
+The league commissioner may, at their discretion, override, modify, add, or remove any rules in order to provide a safe, fair, and competitive league.
+
 # League Concepts
 
 ## Instructional League
@@ -73,4 +78,3 @@ This league will follow the [Stanton City Park Youth League Drafting](../README.
 ## Kid Pitch
 
 1. **Game Management**: Pitchers should be taught strategies and tactics for game management.
-
