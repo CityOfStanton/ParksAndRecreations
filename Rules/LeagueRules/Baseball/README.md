@@ -54,7 +54,7 @@ This league will follow the [Stanton City Park Youth League Drafting](../README.
 
 ## League Rules
 
-[Official Little League baseball rules](https://www.littleleague.org/playing-rules/little-league-rulebook-app/) will be followed in all circumstances, except when noted below. You can download the Little League rules from their [official Little League rules app](official Little League rules).
+[Official Little League baseball rules](https://www.littleleague.org/playing-rules/little-league-rulebook-app/) will be followed in all circumstances, except when noted below. You can download the Little League rules from their [official Little League Rules app](https://www.littleleague.org/playing-rules/little-league-rulebook-app/).
 
 <a id="raw-url" href="https://www.littleleague.org/playing-rules/little-league-rulebook-app/">![Static Badge](https://img.shields.io/badge/Download-Official_Little_League_Rules_App-62943f)
 </a>
