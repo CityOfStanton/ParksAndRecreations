@@ -56,7 +56,7 @@ This league will follow the [Stanton City Park Youth League Drafting](../README.
 
 [Official Little League baseball rules](https://www.littleleague.org/playing-rules/little-league-rulebook-app/) will be followed in all circumstances, except when noted below. You can download the Little League rules from their [official Little League rules app](official Little League rules).
 
-<a id="raw-url" href="[/BrandKit](https://www.littleleague.org/playing-rules/little-league-rulebook-app/)">![Static Badge](https://img.shields.io/badge/Download-Official_Little_League_Rules_App-62943f)
+<a id="raw-url" href="https://www.littleleague.org/playing-rules/little-league-rulebook-app/">![Static Badge](https://img.shields.io/badge/Download-Official_Little_League_Rules_App-62943f)
 </a>
 
 We will have coaches boxes and painted circle for the pitcher. Coaches are to stay in the boxes and not touch a live player. If this happens, it will only be called out after a called time and a discussion with the umpire. Umpires call stands.
