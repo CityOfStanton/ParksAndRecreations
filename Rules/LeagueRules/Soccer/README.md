@@ -37,6 +37,11 @@ These guidelines outline the core skills and concepts we aim for players to lear
 
 Our league is dedicated to creating a fun, positive, and respectful environment where players can learn, grow, and enjoy the game. We ask all players, coaches, and parents to model good sportsmanship and support one another at all times. Negative behavior, nuisance conduct, fighting, foul language, or inappropriate gestures have no place in our league. Any concerns or issues should be respectfully directed to the League Commissioner. Together, we can promote positivity, encouragement, and a love for the game both on and off the field.
 
+**ALL GAMES WILL BE CALLED AS BEST AS THEY CAN AND THE REFEREE(S) CALL WILL STAND. QUESTIONABLE CALLS CAN BE DISCUSSED BETWEEN HEAD COACH AND REFEREE(S). COACHES GETTING OUT OF HAND AND SPECTATORS BEING RUDE AND USING PROFANITY WILL BE REMOVED FROM GAME/PARK AT REFEREE(S) CALL. ALSO, BY THE PARK AND REC ZERO TOLERANCE POLICY**
+
+<a id="raw-url" href="https://www.stantonky.gov/zero-tolerance-policy">![Static Badge](https://img.shields.io/badge/Goto-Zero_Tolerance_Policy-62943f)
+</a>
+
 ### 4U Division
 
 - **Format**: 5 vs. 5
