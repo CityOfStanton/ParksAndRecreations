@@ -47,6 +47,11 @@ This league will follow the [Stanton City Park Youth League Drafting](../README.
 1. Canceling games will be done by the League Commissioner.
 1. Bullying and berating any child will not be tolerated.
 
+**ALL GAMES WILL BE CALLED AS BEST AS THEY CAN AND THE UMPIRES CALL WILL STAND. QUESTIONABLE CALLS CAN BE DISCUSSED BETWEEN HEAD COACH AND UMPIRE. COACHES GETTING OUT OF HAND AND SPECTATORS BEING RUDE AND USING PROFANITY WILL BE REMOVED FROM GAME/PARK AT UMPIRES CALL. ALSO, BY THE PARK AND REC ZERO TOLERANCE POLICY**
+
+<a id="raw-url" href="https://www.stantonky.gov/zero-tolerance-policy">![Static Badge](https://img.shields.io/badge/Goto-Zero_Tolerance_Policy-62943f)
+</a>
+
 ## T-Ball & Instructional League Rules
 
 1. Softball pants are not required.
