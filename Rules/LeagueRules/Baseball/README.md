@@ -66,7 +66,6 @@ We will have coaches boxes and painted circle for the pitcher. Coaches are to st
 
 ![Static Badge](https://img.shields.io/badge/View-Zero_Tolerance_Policy-62943f)
 
-
 ### Instructional League
 
 Instructional League is a developmental league to help teach the basics of baseball.
