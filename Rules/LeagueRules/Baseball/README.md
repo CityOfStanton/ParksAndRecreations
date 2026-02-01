@@ -64,7 +64,8 @@ We will have coaches boxes and painted circle for the pitcher. Coaches are to st
 
 **ALL GAMES WILL BE CALLED AS BEST AS THEY CAN AND THE UMPIRES CALL WILL STAND. QUESTIONABLE CALLS CAN BE DISCUSSED BETWEEN HEAD COACH AND UMPIRE. COACHES GETTING OUT OF HAND AND SPECTATORS BEING RUDE AND USING PROFANITY WILL BE REMOVED FROM GAME/PARK AT UMPIRES CALL. ALSO, BY THE PARK AND REC ZERO TOLERANCE POLICY**
 
-![Static Badge](https://img.shields.io/badge/Goto-Zero_Tolerance_Policy-62943f)
+<a id="raw-url" href="https://www.stantonky.gov/zero-tolerance-policy">![Static Badge](https://img.shields.io/badge/Goto-Zero_Tolerance_Policy-62943f)
+</a>
 
 ### Instructional League
 
