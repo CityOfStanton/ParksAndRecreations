@@ -66,6 +66,7 @@ def main():
     }}
     .logo {{
       max-width: 500px;
+      text-align: center;
     }}
   </style>
 </head>
