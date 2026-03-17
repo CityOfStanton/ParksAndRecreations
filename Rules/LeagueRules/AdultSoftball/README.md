@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="../../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="300"/>
+  <img src="../../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="300" class="logo"/>
 </p>
+
+<div class="no-pdf">
 
 <center>
 
 [![Park Website](https://img.shields.io/badge/park_website-77a459?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/parks/)  [![Adult Softball Website](https://img.shields.io/badge/adult_softball_website-CCE500?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park-adult-softball/)  [![Online Scheduling](https://img.shields.io/badge/online_scheduling-3e83c7?style=for-the-badge&logo=About.me&logoColor=white)](http://www.quickscores.com/StantonCityPark/)    [![Adult Softball Facebook](https://img.shields.io/badge/Adult_Softball_Facebook_page-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/StantonParksAndRecAdultSoftball)
 
 </center>
+
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/Stanton%20City%20Park%20League%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
+</a>
+
+</div>
 
 - [Stanton Parks and Rec Adult Co-Ed Fall Softball League Rules](#stanton-parks-and-rec-adult-co-ed-fall-softball-league-rules)
   - [General Park Rules](#general-park-rules)

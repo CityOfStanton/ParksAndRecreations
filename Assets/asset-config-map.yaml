@@ -4,3 +4,13 @@ conversions:
       output: ./../Assets/Rules/Stanton City Park Rules.pdf
     - input: ./Rules/LeagueRules/README.md
       output: ./../../Assets/Rules/LeagueRules/Stanton City Park League Rules.pdf
+    - input: ./Rules/LeagueRules/AdultBasketball/README.md
+      output: ./../../../Assets/Rules/LeagueRules/AdultBasketball/Stanton City Park League Adult Basketball Rules.pdf
+    - input: ./Rules/LeagueRules/AdultSoftball/README.md
+      output: ./../../../Assets/Rules/LeagueRules/AdultSoftball/Stanton City Park League Adult Softball Rules.pdf
+    - input: ./Rules/LeagueRules/Baseball/README.md
+      output: ./../../../Assets/Rules/LeagueRules/Baseball/Stanton City Park League Baseball Rules.pdf
+    - input: ./Rules/LeagueRules/Soccer/README.md
+      output: ./../../../Assets/Rules/LeagueRules/Soccer/Stanton City Park League Soccer Rules.pdf
+    - input: ./Rules/LeagueRules/Softball/README.md
+      output: ./../../../Assets/Rules/LeagueRules/Softball/Stanton City Park League Softball Rules.pdf
