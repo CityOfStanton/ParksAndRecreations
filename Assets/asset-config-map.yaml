@@ -3,4 +3,4 @@ conversions:
     - input: ./Rules/README.md
       output: ./../Assets/Rules/Stanton City Park Rules.pdf
     - input: ./Rules/LeagueRules/README.md
-      output: ./../Assets/Rules/LeagueRules/Stanton City Park League Rules.pdf
+      output: ./../../Assets/Rules/LeagueRules/Stanton City Park League Rules.pdf

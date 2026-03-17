@@ -2,13 +2,13 @@
   <img src="../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="300" class="logo"/>
 </p>
 
+<div class="no-pdf">
+
 <center>
 
 [![Park Website](https://img.shields.io/badge/park_website-77a459?style=for-the-badge&logo=About.me&logoColor=white)](https://www.stantonky.gov/park/)  [![Online Scheduling](https://img.shields.io/badge/online_scheduling-3e83c7?style=for-the-badge&logo=About.me&logoColor=white)](http://www.quickscores.com/StantonCityPark/)
 
 </center>
-
-<div class="no-pdf">
 
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/Stanton%20City%20Park%20League%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
