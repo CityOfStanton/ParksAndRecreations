@@ -1,0 +1,4 @@
+conversions:
+  markdown_pdf:
+    - input: ./Rules/README.md
+      output: ./Rules/StantonCityParkRules.pdf

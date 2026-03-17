@@ -1,0 +1,83 @@
+name: Markdown to PDF Workflow
+
+on:
+  push:
+    paths:
+      - 'Rules/README.md'
+      - Assets/asset-config-map.yaml
+      - .github/workflows/markdown-to-pdf.yml
+      - .github/workflows/lib/export-markdown-pdf.py
+  pull_request:
+    paths:
+      - 'Rules/README.md'
+      - Assets/asset-config-map.yaml
+      - .github/workflows/markdown-to-pdf.yml
+      - .github/workflows/lib/export-markdown-pdf.py
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: markdown-to-pdf
+  cancel-in-progress: false
+
+jobs:
+  markdown-to-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install -r .github/workflows/lib/requirements.txt
+
+      - name: Generate PDFs from asset-config-map.yaml
+        run: |
+          set -e
+
+          # Install yq for YAML parsing
+          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+
+          entries=$(yq '.conversions.markdown_pdf // [] | length' ./Assets/asset-config-map.yaml)
+          if [ "$entries" -eq 0 ]; then
+            echo "No markdown_pdf entries found in config."
+            exit 0
+          fi
+
+          yq -r '.conversions.markdown_pdf[] | @json' ./Assets/asset-config-map.yaml | while read -r line; do
+            input=$(echo "$line" | jq -r '.input')
+            output=$(echo "$line" | jq -r '.output')
+
+            echo "============================================"
+            echo "Processing: $input"
+            echo "Output config: $output"
+            echo "============================================"
+
+            # Resolve absolute paths (output is relative to the input file's directory)
+            input_abs=$(realpath "$input")
+            input_dir_abs=$(dirname "$input_abs")
+            output_abs=$(cd "$input_dir_abs" && realpath -m "$output")
+
+            echo "Absolute input: $input_abs"
+            echo "Absolute output: $output_abs"
+
+            python .github/workflows/lib/export-markdown-pdf.py \
+              "$input_abs" "$output_abs"
+          done
+
+      - name: Commit files
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Automatically generated PDFs from Markdown files
+          commit_user_name: ${{ vars.COMMIT_USER_NAME }}
+          commit_user_email: ${{ vars.COMMIT_USER_EMAIL }}
+          commit_author: ${{ vars.COMMIT_AUTHOR }}
+          file_pattern: '**/*.pdf'
+          push_options: '--force'
