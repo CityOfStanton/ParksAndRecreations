@@ -64,6 +64,9 @@ def main():
     .no-pdf {{
       display: none;
     }}
+    .logo {{
+      max-width: 100px;
+    }}
   </style>
 </head>
 <body>
