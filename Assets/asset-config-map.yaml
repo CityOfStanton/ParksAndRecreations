@@ -2,5 +2,5 @@ conversions:
   markdown_pdf:
     - input: ./Rules/README.md
       output: ./../Assets/Rules/Stanton City Park Rules.pdf
-    - input: ./Rules/Legacy/README.md
+    - input: ./Rules/LeagueRules/README.md
       output: ./../Assets/Rules/LeagueRules/Stanton City Park League Rules.pdf
