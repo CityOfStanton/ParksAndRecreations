@@ -15,6 +15,8 @@ Arguments:
 
 import sys
 import os
+from datetime import datetime
+from zoneinfo import ZoneInfo
 import markdown
 from weasyprint import HTML
 
@@ -37,6 +39,11 @@ def main():
     # Read the markdown content
     with open(input_path, 'r', encoding='utf-8') as f:
         md_content = f.read()
+
+    # Build the timestamp in Eastern Time
+    et_tz = ZoneInfo("America/New_York")
+    now_et = datetime.now(et_tz)
+    timestamp_str = now_et.strftime("%B %d, %Y %I:%M %p ET")
 
     # Convert markdown to HTML, enabling useful extensions
     html_body = markdown.markdown(
@@ -71,9 +78,17 @@ def main():
     .gridLogo {{
       max-width: 60px;
     }}
+    .timestamp {{
+      font-size: 0.75em;
+      color: #666;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 0.4em;
+      margin-bottom: 1.5em;
+    }}
   </style>
 </head>
 <body>
+<div class="timestamp">Generated: {timestamp_str}</div>
 {html_body}
 </body>
 </html>"""
