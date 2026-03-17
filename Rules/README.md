@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300"/>
+  <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="50%"/>
 </p>
 
 - [Park Rules](#park-rules)
@@ -52,6 +52,7 @@
 
 # League Rules
 
+<div class="no-pdf">
 
 | Logo | League           |
 |------|------------------|
@@ -63,3 +64,5 @@
 | <img src="../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="100"/> | [Soccer](../Rules/LeagueRules/Soccer/README.md)           |
 | <img src="../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="100"/> | [Softball](../Rules/LeagueRules/Softball/README.md)         |
 | <img src="../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="100"/> | Volleyball       |
+
+</div>
