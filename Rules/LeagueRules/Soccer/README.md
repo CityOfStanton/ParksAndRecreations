@@ -13,8 +13,6 @@
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/Soccer/Stanton%20City%20Park%20League%20Soccer%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
-</div>
-
 - [Stanton Parks and Rec Youth Soccer Rules](#stanton-parks-and-rec-youth-soccer-rules)
   - [General Park Rules](#general-park-rules)
   - [Drafting](#drafting)
@@ -25,6 +23,8 @@
     - [8U Division](#8u-division)
     - [12U Division](#12u-division)
   - [League Commissioner Override](#league-commissioner-override)
+
+</div>
 
 # Stanton Parks and Rec Youth Soccer Rules
 

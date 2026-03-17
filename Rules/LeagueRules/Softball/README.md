@@ -13,8 +13,6 @@
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/Softball/Stanton%20City%20Park%20League%20Softball%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
-</div>
-
 - [Stanton Parks and Rec Youth Softball Rules](#stanton-parks-and-rec-youth-softball-rules)
   - [General Park Rules](#general-park-rules)
   - [Drafting](#drafting)
@@ -29,6 +27,8 @@
   - [T-Ball](#t-ball)
   - [Coach Pitch](#coach-pitch)
   - [Kid Pitch](#kid-pitch)
+
+</div>
 
 # Stanton Parks and Rec Youth Softball Rules
 

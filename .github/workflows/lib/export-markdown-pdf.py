@@ -73,7 +73,7 @@ def main():
     }}
     .logo {{
       max-width: 300px;
-      text-align: center;
+      margin: 0 auto;
     }}
     .gridLogo {{
       max-width: 60px;
