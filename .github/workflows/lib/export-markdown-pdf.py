@@ -65,8 +65,11 @@ def main():
       display: none;
     }}
     .logo {{
-      max-width: 500px;
+      max-width: 300px;
       text-align: center;
+    }}
+    .gridLogo {{
+      max-width: 60px;
     }}
   </style>
 </head>

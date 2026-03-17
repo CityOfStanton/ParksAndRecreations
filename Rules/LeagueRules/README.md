@@ -8,6 +8,13 @@
 
 </center>
 
+<div class="no-pdf">
+
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/Stanton%20City%20Park%20League%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
+</a>
+
+</div>
+
 # League Rules Directory
 
 This directory contains the official rules and guidelines for all leagues and sports at Stanton City Park. Each subfolder provides detailed rules, age guidelines, and league-specific information for the corresponding sport or league.
@@ -21,14 +28,14 @@ This directory contains the official rules and guidelines for all leagues and sp
 
 | Logo | League | Description |
 |:----:|:-------|:------------|
-| <img src="../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Adult Basketball Logo" width="60"/> | [**Adult Basketball**](AdultBasketball/README.md) | Rules and information for the Adult Basketball League. |
-| <img src="../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="60"/> | [**Adult Softball**](AdultSoftball/README.md) | Rules and information for the Adult Co-Ed Softball League. |
-| <img src="../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="60"/> | [**Baseball**](Baseball/README.md) | Rules and information for the Youth Baseball League. |
-| <img src="../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Basketball Logo" width="60"/> | [**Basketball**](Basketball/README.md) | Rules and information for the Youth Basketball League. |
-| <img src="../../Assets/Images/Logos/Football-1_1-Color-Transparent-Logo.png" alt="Football Logo" width="60"/> | [**Football**](Football/README.md) | Rules and information for the Youth Football League. |
-| <img src="../../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="60"/> | [**Soccer**](Soccer/README.md) | Rules and information for the Youth Soccer League. |
-| <img src="../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="60"/> | [**Softball**](Softball/README.md) | Rules and information for the Youth Softball League. |
-| <img src="../../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="60"/> | [**Volleyball**](Volleyball/README.md) | Rules and information for the Youth Volleyball League. |
+| <img src="../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Adult Basketball Logo" width="60" class="gridLogo"/> | [**Adult Basketball**](AdultBasketball/README.md) | Rules and information for the Adult Basketball League. |
+| <img src="../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="60" class="gridLogo"/> | [**Adult Softball**](AdultSoftball/README.md) | Rules and information for the Adult Co-Ed Softball League. |
+| <img src="../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="60" class="gridLogo"/> | [**Baseball**](Baseball/README.md) | Rules and information for the Youth Baseball League. |
+| <img src="../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Basketball Logo" width="60" class="gridLogo"/> | [**Basketball**](Basketball/README.md) | Rules and information for the Youth Basketball League. |
+| <img src="../../Assets/Images/Logos/Football-1_1-Color-Transparent-Logo.png" alt="Football Logo" width="60" class="gridLogo"/> | [**Football**](Football/README.md) | Rules and information for the Youth Football League. |
+| <img src="../../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="60" class="gridLogo"/> | [**Soccer**](Soccer/README.md) | Rules and information for the Youth Soccer League. |
+| <img src="../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="60" class="gridLogo"/> | [**Softball**](Softball/README.md) | Rules and information for the Youth Softball League. |
+| <img src="../../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="60" class="gridLogo"/> | [**Volleyball**](Volleyball/README.md) | Rules and information for the Youth Volleyball League. |
 
 ## General Park Rules
 
