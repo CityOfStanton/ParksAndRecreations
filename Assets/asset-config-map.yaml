@@ -14,3 +14,5 @@ conversions:
       output: ./../../../Assets/Rules/LeagueRules/Soccer/Stanton City Park League Soccer Rules.pdf
     - input: ./Rules/LeagueRules/Softball/README.md
       output: ./../../../Assets/Rules/LeagueRules/Softball/Stanton City Park League Softball Rules.pdf
+    - input: ./Rules/AttractionRules/BattingCageRules/README.md
+      output: ./../../../Assets/Rules/AttractionRules/BattingCageRules/Stanton City Park Batting Cage Rules.pdf
