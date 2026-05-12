@@ -16,21 +16,28 @@ Items contained in this repository are:
 
 Descriptions, vector logos, rasterized logos, and more.
 
-<a id="raw-url" href="/BrandKit">![Static Badge](https://img.shields.io/badge/Goto-Brand_Kit-62943f)
+<a id="raw-url" href="/BrandKit/README.md">![Static Badge](https://img.shields.io/badge/Goto-Brand_Kit-62943f)
 </a>
 
 # Park Rules
 
 Rules for the park.
 
-<a id="raw-url" href="/Rules">![Static Badge](https://img.shields.io/badge/Goto-Park_Rules-62943f)
+<a id="raw-url" href="/Rules/README.md">![Static Badge](https://img.shields.io/badge/Goto-Park_Rules-62943f)
 </a>
 
-# League Rules
+## League Rules
 
 Rules, guidelines, and more information for the sports leagues.
 
-<a id="raw-url" href="/Rules/LeagueRules">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
+<a id="raw-url" href="/Rules/LeagueRules/README.md">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
+</a>
+
+## Attraction Rules
+
+Rules, guidelines, and more information for the attractions at the Stanton City Park.
+
+<a id="raw-url" href="/Rules/LeagueRules/README.md">![Static Badge](https://img.shields.io/badge/Goto-League_Rules-62943f)
 </a>
 
 # Report an Issue
