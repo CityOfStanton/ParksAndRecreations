@@ -55,16 +55,7 @@
 
 # League Rules
 
-| Logo | League           |
-|------|------------------|
-| <img src="../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="100"/> | [Adult Softball](../Rules/LeagueRules/AdultSoftball/README.md)   |
-| <img src="../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Adult Basketball Logo" width="100"/> | [Adult Basketball](../Rules/LeagueRules/AdultBasketball/README.md) |
-| <img src="../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="100"/> | [Baseball](../Rules/LeagueRules/Baseball/README.md)         |
-| <img src="../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Basketball Logo" width="100"/> | Basketball       |
-| <img src="../Assets/Images/Logos/Football-1_1-Color-Transparent-Logo.png" alt="Football Logo" width="100"/> | Football           |
-| <img src="../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="100"/> | [Soccer](../Rules/LeagueRules/Soccer/README.md)           |
-| <img src="../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="100"/> | [Softball](../Rules/LeagueRules/Softball/README.md)         |
-| <img src="../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="100"/> | Volleyball       |
+[League Rules](./LeagueRules/README.md) contains information related to both Adult and Youth leagues.
 
 </div>
 
