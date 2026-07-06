@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300" class="logo"/>
+  <img src="../../../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300" class="logo"/>
 </p>
 
 <div class="no-pdf">
@@ -14,7 +14,7 @@
 </a>
 
 - [Stanton Parks and Rec Youth Baseball/T-Ball Rules](#stanton-parks-and-rec-youth-baseballt-ball-rules)
-  - [General Park Rules](#general-park-rules)
+  - [Common Rules](#common-rules)
   - [Drafting](#drafting)
   - [League Rules](#league-rules)
     - [Instructional League](#instructional-league)
@@ -51,9 +51,11 @@
 
 Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board. 
 
-## General Park Rules
+## Common Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
+All participants will adhere to the following rules without exception:
+  *  [Stanton City Park Rules](../../../README.md)
+  *  [Common Youth League Rules](../README.md)
 
 ## Drafting 
 

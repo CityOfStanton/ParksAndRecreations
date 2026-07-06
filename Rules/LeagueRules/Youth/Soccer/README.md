@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="300" class="logo"/>
+  <img src="../../../../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="300" class="logo"/>
 </p>
 
 <div class="no-pdf">
@@ -14,7 +14,7 @@
 </a>
 
 - [Stanton Parks and Rec Youth Soccer Rules](#stanton-parks-and-rec-youth-soccer-rules)
-  - [General Park Rules](#general-park-rules)
+  - [Common Rules](#common-rules)
   - [Drafting](#drafting)
   - [League Rules and Development Guidelines](#league-rules-and-development-guidelines)
     - [Message to Players, Coaches, and Parents](#message-to-players-coaches-and-parents)
@@ -28,9 +28,11 @@
 
 # Stanton Parks and Rec Youth Soccer Rules
 
-## General Park Rules
+## Common Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
+All participants will adhere to the following rules without exception:
+  *  [Stanton City Park Rules](../../../README.md)
+  *  [Common Youth League Rules](../README.md)
 
 ## Drafting 
 
