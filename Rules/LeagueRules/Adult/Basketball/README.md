@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300" class="logo"/>
+  <img src="../../../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="300" class="logo"/>
 </p>
 
 <div class="no-pdf">
@@ -9,7 +9,7 @@
 
 - [Introduction](#introduction)
 - [Rules](#rules)
-	- [1. General Park Rules](#1-general-park-rules)
+  - [Common Rules](#common-rules)
 
 
 </div>
@@ -18,6 +18,8 @@
 
 # Rules
 
-##  1. General Park Rules
+## Common Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../../Documentation/Rules/README.md), without exception.
+All participants will adhere to the following rules without exception:
+  *  [Stanton City Park Rules](../../../README.md)
+  *  [Common Adult League Rules](../README.md)

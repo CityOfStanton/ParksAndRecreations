@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="300" class="logo"/>
+  <img src="../../../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="300" class="logo"/>
 </p>
 
 <div class="no-pdf">
@@ -13,15 +13,13 @@
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/Stanton%20City%20Park%20League%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
-- [League Rules Directory](#league-rules-directory)
+- [Youth Leagues](#youth-leagues)
   - [Structure](#structure)
   - [Leagues](#leagues)
-    - [Adult Leagues](#adult-leagues)
-    - [Youth Leagues](#youth-leagues)
   - [General Park Rules](#general-park-rules)
-  - [Common League Rules](#common-league-rules)
+  - [Common Youth League Rules](#common-youth-league-rules)
     - [Required Protective Equipment For Catchers](#required-protective-equipment-for-catchers)
-    - [Youth League Drafting](#youth-league-drafting)
+    - [Drafting](#drafting)
       - [Draft Structure](#draft-structure)
       - [Draft Coordinator](#draft-coordinator)
       - [Reserved Players](#reserved-players)
@@ -29,37 +27,33 @@
 
 </div>
 
-# League Rules Directory
+# Youth Leagues
 
-This directory contains the official rules and guidelines for all leagues and sports at Stanton City Park. Each subfolder provides detailed rules, age guidelines, and league-specific information for the corresponding sport or league.
+This contains the common youth league rules, as well as the directory for the official rules and guidelines for all youth leagues and sports at Stanton City Park. Each subfolder provides detailed rules, age guidelines, and league-specific information for the corresponding sport or league.
 
 ## Structure
 
-- Each sport or league has its own subfolder (e.g., `Softball`, `Baseball`, `Soccer`, `AdultSoftball`, etc.).
+- Each sport or league has its own subfolder (e.g., `Softball`, `Baseball`, `Soccer`, etc.).
 - Each subfolder contains a `README.md` file with the rules and guidelines for that league.
 
 ## Leagues
 
-### Adult Leagues
-
-The Stanton City Park offers a number of Adult Leagues. These leagues typically play their games on the weekends or in the evenings are meant to keep adults in the community engaged with sports and activities that they have played for all of their lives.
-
-[![Adult League](https://img.shields.io/badge/Leagues-Adult-77a459?style=for-the-badge&logo=About.me&logoColor=white)](./Adult/README.md)
-
-
-### Youth Leagues
-
-The Stanton City Park offers many Youth Leagues throughout the season. These leagues typically play their games on the weekends or in the evenings and are meant to keep kids in the community active, build teamwork skills, and develop a love for sports at an early age.
-
-[![Youth League](https://img.shields.io/badge/Leagues-Youth-77a459?style=for-the-badge&logo=About.me&logoColor=white)](./Youth/README.md)
+| Logo | League | Description |
+|:----:|:-------|:------------|
+| <img src="../../../Assets/Images/Logos/Baseball-1_1-Color-Transparent-Logo.png" alt="Baseball Logo" width="60" class="gridLogo"/> | [**Baseball**](Baseball/README.md) | Rules and information for the Youth Baseball League. |
+| <img src="../../../Assets/Images/Logos/Basketball-1_1-Color-Transparent-Logo.png" alt="Basketball Logo" width="60" class="gridLogo"/> | [**Basketball**](Basketball/README.md) | Rules and information for the Youth Basketball League. |
+| <img src="../../../Assets/Images/Logos/Football-1_1-Color-Transparent-Logo.png" alt="Football Logo" width="60" class="gridLogo"/> | [**Football**](Football/README.md) | Rules and information for the Youth Football League. |
+| <img src="../../../Assets/Images/Logos/Soccer-1_1-Color-Transparent-Logo.png" alt="Soccer Logo" width="60" class="gridLogo"/> | [**Soccer**](Soccer/README.md) | Rules and information for the Youth Soccer League. |
+| <img src="../../../Assets/Images/Logos/Softball-1_1-Color-Transparent-Logo.png" alt="Softball Logo" width="60" class="gridLogo"/> | [**Softball**](Softball/README.md) | Rules and information for the Youth Softball League. |
+| <img src="../../../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="60" class="gridLogo"/> | [**Volleyball**](Volleyball/README.md) | Rules and information for the Youth Volleyball League. |
 
 ## General Park Rules
 
-All participants in any league must adhere to the [Stanton City Park Rules](../README.md), without exception.
+All participants in any league must adhere to the [Stanton City Park Rules](../../README.md), without exception.
 
 For detailed rules for each league, refer to the `README.md` file in the corresponding subfolder.
 
-## Common League Rules
+## Common Youth League Rules
 
 ### Required Protective Equipment For Catchers
 
@@ -71,7 +65,7 @@ Any player in a Baseball or Softball division occupying the catcher position beh
 
 No player may assume the catcher position behind home plate during live play without the required protective equipment. Umpires and league officials have the authority to delay or suspend play until the catcher is properly equipped.
 
-### Youth League Drafting
+### Drafting
 
 Some youth leagues at Stanton City Park operate as competitive leagues where scores are kept and standings are maintained throughout the season. To ensure fair and balanced team composition, all competitive youth leagues utilize a structured draft process.
 

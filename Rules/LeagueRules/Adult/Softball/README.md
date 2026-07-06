@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="300" class="logo"/>
+  <img src="../../../../Assets/Images/Logos/Adult_Softball-1_1-Color-Transparent-Logo.png" alt="Adult Softball Logo" width="300" class="logo"/>
 </p>
 
 <div class="no-pdf">
@@ -14,7 +14,7 @@
 </a>
 
 - [Stanton Parks and Rec Adult Co-Ed Fall Softball League Rules](#stanton-parks-and-rec-adult-co-ed-fall-softball-league-rules)
-  - [General Park Rules](#general-park-rules)
+  - [Common Rules](#common-rules)
   - [General](#general)
     - [Eligibility](#eligibility)
     - [Penalty](#penalty)
@@ -40,9 +40,11 @@
 
 # Stanton Parks and Rec Adult Co-Ed Fall Softball League Rules
 
-## General Park Rules
+## Common Rules
 
-All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
+All participants will adhere to the following rules without exception:
+  *  [Stanton City Park Rules](../../../README.md)
+  *  [Common Adult League Rules](../README.md)
 
 ## General
 
@@ -64,7 +66,7 @@ Failure to comply with any rules may result in your dismissal from the league (n
 
 ### Alcohol
 
-1. **Use at the Park**: As per the [Stanton City Park rules](../../README.md), consumption of alcoholic beverages while playing games is **not allowed**. This includes the dugout area, spectator stands, and the parking lot. Penalty for violation of this rule will be ejection from the game. If outside alcohol is brought into the complex, the player or players will be ejected immediately, and the team will be given a warning. The next incident will result in the team forfeiting their game.
+1. **Use at the Park**: As per the [Stanton City Park rules](../../../README.md), consumption of alcoholic beverages while playing games is **not allowed**. This includes the dugout area, spectator stands, and the parking lot. Penalty for violation of this rule will be ejection from the game. If outside alcohol is brought into the complex, the player or players will be ejected immediately, and the team will be given a warning. The next incident will result in the team forfeiting their game.
 
 1. **Players Under the Influence**: If a player  is determined by the umpire to be under the influence of alcohol, the umpire may eject the play form the game and may also optionally eject them from park. If the players fails to comply, the police will be called and the player will be expelled from the league without refund.
 
