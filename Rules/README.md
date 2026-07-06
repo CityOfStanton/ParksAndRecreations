@@ -2,13 +2,14 @@
   <img src="../Assets/Images/Logos/Stanton_City_Park-1_1-Color-Transparent-Logo.png" alt="Stanton City Park Logo" width="300" class="logo"/>
 </p>
 
-- [Park Rules](#park-rules)
-- [League Rules](#league-rules)
-
 <div class="no-pdf">
 
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/Stanton%20City%20Park%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
+
+- [Park Rules](#park-rules)
+- [League Rules](#league-rules)
+- [Attraction Rules](#attraction-rules)
 
 </div>
 
@@ -66,3 +67,7 @@
 | <img src="../Assets/Images/Logos/Volleyball-1_1-Color-Transparent-Logo.png" alt="Volleyball Logo" width="100"/> | Volleyball       |
 
 </div>
+
+# Attraction Rules
+
+* [Batting Cage Rules](../Rules/AttractionRules/BattingCageRules/README.md)

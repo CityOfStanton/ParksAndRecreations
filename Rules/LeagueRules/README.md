@@ -13,6 +13,17 @@
 <a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/Stanton%20City%20Park%20League%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
+- [League Rules Directory](#league-rules-directory)
+  - [Structure](#structure)
+  - [Leagues](#leagues)
+  - [General Park Rules](#general-park-rules)
+  - [Common League Rules](#common-league-rules)
+    - [Youth League Drafting](#youth-league-drafting)
+      - [Draft Structure](#draft-structure)
+      - [Draft Coordinator](#draft-coordinator)
+      - [Reserved Players](#reserved-players)
+      - [Draft Authority](#draft-authority)
+
 </div>
 
 # League Rules Directory
