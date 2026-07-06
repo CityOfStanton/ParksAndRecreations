@@ -44,13 +44,14 @@ This directory contains the official rules and guidelines for all leagues and sp
 
 The Stanton City Park offers a number of Adult Leagues. These leagues typically play their games on the weekends or in the evenings are meant to keep adults in the community engaged with sports and activities that they have played for all of their lives.
 
-For more details, check out our [Adult League](./Adult/README.md) page.
+[![Adult League](https://img.shields.io/badge/Leagues-Adult-77a459?style=for-the-badge&logo=About.me&logoColor=white)](./Adult/README.md)
+
 
 ### Youth Leagues
 
 The Stanton City Park offers many Youth Leagues throughout the season. These leagues typically play their games on the weekends or in the evenings and are meant to keep kids in the community active, build teamwork skills, and develop a love for sports at an early age.
 
-For more details, check out our [Youth League](./Youth/README.md) page.
+[![Youth League](https://img.shields.io/badge/Leagues-Youth-77a459?style=for-the-badge&logo=About.me&logoColor=white)](./Youth/README.md)
 
 ## General Park Rules
 
