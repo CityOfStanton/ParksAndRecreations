@@ -43,19 +43,24 @@
       - [Guidelines](#guidelines-2)
     - [Kid Pitch \& Advanced Kid Pitch](#kid-pitch--advanced-kid-pitch)
       - [Guidelines](#guidelines-3)
+  - [Courtesy Runners \& Fill-In Players](#courtesy-runners--fill-in-players)
+    - [Courtesy Runners](#courtesy-runners)
+      - [Coach Pitch Divisions](#coach-pitch-divisions)
+      - [Kid Pitch Division](#kid-pitch-division)
+    - [Fill-In Players](#fill-in-players)
   - [League Commissioner Override](#league-commissioner-override)
 
 </div>
 
 # Stanton Parks and Rec Youth Baseball/T-Ball Rules
 
-Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board. 
+Rules can be changed at any time at discretion of the baseball commissioner and/or Parks and Rec Advisory Board.
 
 ## General Park Rules
 
 All participants will adhere to the [Stanton City Park Rules](../../README.md), without exception.
 
-## Drafting 
+## Drafting
 
 This league will follow the [Stanton City Park Youth League Drafting](../README.md#youth-league-drafting) rules.
 
@@ -183,6 +188,61 @@ Once the ball has stopped, TIME will be called. Overthrow to 1st and 3rd bases a
 - 36-50 requires two days rest
 - Anything after 50 requires 3 days rest
 - Sliding is needed at second, third and home on a play being made or they may be called out.
+
+## Courtesy Runners & Fill-In Players
+
+The following rules apply only to the Coach Pitch and Kid Pitch divisions.
+
+### Courtesy Runners
+
+#### Coach Pitch Divisions
+
+A courtesy runner may be used for the **catcher** when the catcher reaches base.
+
+The courtesy runner must be the **player who made the most recent recorded out**. If no out has been recorded in the current inning, the courtesy runner shall be the player who made the **last recorded out of the previous inning**.
+
+If the player who made the most recent out is currently on base, the **next most recent eligible player who recorded an out** shall be used.
+
+#### Kid Pitch Division
+
+A courtesy runner may be used for the **pitcher or catcher** when the pitcher or catcher reaches base.
+
+The courtesy runner must be the **player who made the most recent recorded out**. If no out has been recorded in the current inning, the courtesy runner shall be the player who made the **last recorded out of the previous inning**.
+
+If the player who made the most recent out is currently on base, the **next most recent eligible player who recorded an out** shall be used.
+
+If no eligible player has recorded an out in the game, the last batter in the lineup who is not currently on base shall serve as the courtesy runner.
+
+The courtesy-runner rule is intended to allow the pitcher and catcher adequate time to prepare for their defensive responsibilities and shall not be used to create a competitive advantage.
+
+### Fill-In Players
+
+Fill-in players are intended **solely to help a team meet the minimum number of players required to play a game** when a team does not have the required **nine (9) rostered players** available.
+
+A fill-in player may be used only when the team has fewer than nine (9) eligible rostered players available for the game. Fill-in players are not intended to provide additional players, substitutes, or strategic advantages to a team.
+
+A coach **may not play a fill-in player while sitting or benching an eligible rostered team member**. All available rostered team members must be given priority over a fill-in player. A fill-in player may not take the playing opportunity of a true team member who is present and eligible to play.
+
+**Fill-in players may not serve as the catcher or pitcher** for the team for which they are filling in. The team’s rostered players must fill those positions.
+
+When a team does not have enough eligible rostered players to field a team, a fill-in player may be used with the **prior approval of the Baseball Commissioner or the Commissioner’s designated representative**.
+
+The **Baseball Commissioner shall have final discretion** in determining whether a fill-in player is appropriate and, when necessary, which player will be selected. The Commissioner may consider player availability, safety, skill level, competitive balance, and the needs of the division when making the determination.
+
+A fill-in player must meet **one of the following age requirements**:
+
+- The player is within the eligible age range of the division in which they are filling in; or
+- The player is from **one division younger** than the division in which they are filling in.
+
+**Players from an older division are not permitted to play down as fill-in players under any circumstances.**
+
+A player may not be moved into a younger division simply because a team is short players.
+
+The Commissioner may approve or deny any proposed fill-in player based on the circumstances. **The Commissioner’s decision regarding the eligibility and selection of a fill-in player shall be final.**
+
+A fill-in player is approved only for the game or games for which they are designated and does not become a permanent member of the team’s roster by serving as a fill-in player.
+
+**The purpose of the fill-in rule is to ensure that games can be played when a team is short players, while protecting the playing opportunities and positions of the team’s actual rostered players.**
 
 ## League Commissioner Override
 
