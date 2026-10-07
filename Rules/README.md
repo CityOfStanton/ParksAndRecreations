@@ -4,7 +4,7 @@
 
 <div class="no-pdf">
 
-<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/Stanton%20City%20Park%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_Rules-EC1C24?logo=adobeacrobatreader)
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/Stanton%20City%20Park%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stanton_City_Park_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
 - [Park Rules](#park-rules)

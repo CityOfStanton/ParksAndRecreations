@@ -10,7 +10,7 @@
 
 </center>
 
-<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/AdultSoftball/Stanton%20City%20Park%20League%20Adult%20Softball%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/LeagueRules/AdultSoftball/Stanton%20City%20Park%20League%20Adult%20Softball%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stanton_City_Park_League_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
 - [Stanton Parks and Rec Adult Co-Ed Fall Softball League Rules](#stanton-parks-and-rec-adult-co-ed-fall-softball-league-rules)

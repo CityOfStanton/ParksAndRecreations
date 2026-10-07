@@ -4,7 +4,7 @@
 
 <div class="no-pdf">
 
-<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/AttractionRules/BattingCageRules/Stanton%20City%20Park%20Batting%20Cage%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stannton_City_Park_Batting_Cage_Rules-EC1C24?logo=adobeacrobatreader)
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/Assets/Rules/AttractionRules/BattingCageRules/Stanton%20City%20Park%20Batting%20Cage%20Rules.pdf">![Static Badge](https://img.shields.io/badge/PDF-Stanton_City_Park_Batting_Cage_Rules-EC1C24?logo=adobeacrobatreader)
 </a>
 
 - [Batting Cage Rules](#batting-cage-rules)
