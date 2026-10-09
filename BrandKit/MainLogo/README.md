@@ -29,6 +29,13 @@ The logo contains the "Stanton" name in white on the center of a black banner. T
 * **Bottom arched text** `#5E8F3C`
 * **WinterFest grey** `#3F3F3F`
 
+# Download
+
+Download the main logo as a scalable vector graphic (SVG):
+
+<a id="raw-url" href="https://raw.githubusercontent.com/CityOfStanton/ParksAndRecreations/main/BrandKit/MainLogo/Stanton%20City%20Park%20Logo.svg">![Static Badge](https://img.shields.io/badge/SVG-Stanton%20City%20Park%20Main%20Logo-62943f?logo=svg)
+</a>
+
 # Rasterized Images
 
 ## 1:1 Images
