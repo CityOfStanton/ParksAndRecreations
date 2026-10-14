@@ -55,6 +55,7 @@ Download the main logo as a scalable vector graphic (SVG):
 | <img src="Rasterized/Stanton_City_Park-1_1-Color-Transparent-BigFootFestLogo.png" width="200" height="200" />| Stanton_City_Park | Color         | Transparent            | BigFoot Fest Logo                     | [Stanton_City_Park-1_1-Color-Transparent-BigFootFestLogo.png](Rasterized/Stanton_City_Park-1_1-Color-Transparent-BigFootFestLogo.png)
 | <img src="Rasterized/Stanton_City_Park-1_1-Color-Transparent-CornFestivalLogo.png" width="200" height="200" />| Stanton_City_Park | Color         | Transparent            | Corn Festival Logo                    | [Stanton_City_Park-1_1-Color-Transparent-CornFestivalLogo.png](Rasterized/Stanton_City_Park-1_1-Color-Transparent-CornFestivalLogo.png)
 | <img src="Rasterized/Stanton_City_Park-1_1-Color-Transparent-FallLogo.png" width="200" height="200" />| Stanton_City_Park | Color         | Transparent            | Fall Logo                             | [Stanton_City_Park-1_1-Color-Transparent-FallLogo.png](Rasterized/Stanton_City_Park-1_1-Color-Transparent-FallLogo.png)
+| <img src="Rasterized/Stanton_City_Park-1_1-Color-Orange-FallLogo.png" width="200" height="200" />| Stanton_City_Park | Color         | Orange                 | Fall Logo                             | [Stanton_City_Park-1_1-Color-Orange-FallLogo.png](Rasterized/Stanton_City_Park-1_1-Color-Orange-FallLogo.png)
 
 ## 16:9 Images
 
